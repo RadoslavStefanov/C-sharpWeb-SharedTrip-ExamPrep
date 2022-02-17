@@ -98,7 +98,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\Common\" />
+    <Folder Include="Models\" />
+    <Folder Include="Contracts\" />
+    <Folder Include="Services\" />
   </ItemGroup>
 
 </Project>
